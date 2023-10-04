@@ -1,6 +1,5 @@
 from turtle import *
 
-# 创建一个海龟对象
 t = Turtle()
 
 def up():
